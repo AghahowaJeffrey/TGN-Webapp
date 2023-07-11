@@ -1,0 +1,70 @@
+{
+    "2023": {
+        "jan": {
+            "title": "The Shining Light",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "feb": {
+            "title": "The Shining",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "mar": {
+            "title": "God's Purpose",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        }
+    },
+    "2022": {
+        "jan": {
+            "title": "Walking in victort",
+            "default": "THE WORLD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "feb": {
+            "title": "Astonishing",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "mar": {
+            "title": "Light",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        }
+    },
+    "2021": {
+        "jan": {
+            "title": "Walking in victort",
+            "default": "THE WORLD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "feb": {
+            "title": "Astonishing",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "mar": {
+            "title": "Light",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        }
+    },
+    "2020": {
+        "jan": {
+            "title": "Walking in victort",
+            "default": "THE WORLD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "feb": {
+            "title": "Astonishing",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        },
+        "mar": {
+            "title": "Light",
+            "default": "THE WORD FOR THE MONTH",
+            "declaration": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, vitae! Reiciendis,adipisci ab id tempore fugiat molestiae totam, veritatis quo suscipit, optio quod beatae voluptas. "
+        }
+    }
+}
